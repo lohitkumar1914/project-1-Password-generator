@@ -1,7 +1,3 @@
-Sure, here's a detailed description for creating a repository for your Password Generator project using HTML, CSS, and JavaScript.
-
----
-
 # Password Generator
 
 This project is a simple web-based password generator that allows users to create strong and secure passwords with customizable options. Users can specify the length of the password and choose to include uppercase letters, lowercase letters, numbers, and symbols.
